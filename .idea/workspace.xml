@@ -4,26 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3e4b95a-edd4-4838-ad78-3a6c18565309" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POO.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Banco/Banco.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Banco/Conta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cachorro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CalcMath/CalcMath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Casa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Funcionario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Livro/CadLivro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Livro/Livro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Passaro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Teste/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Teste/Teste.java" afterDir="false" />
+    <list default="true" id="d3e4b95a-edd4-4838-ad78-3a6c18565309" name="Changes" comment="Class Java, Access Modificators">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Automovel/Auto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Automovel/Auto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Automovel/Automovel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Automovel/Automovel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Automovel/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Automovel/Carro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Automovel/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Automovel/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +26,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -64,6 +52,18 @@
       <option name="presentableId" value="Default" />
       <updated>1679429368466</updated>
     </task>
+    <task id="LOCAL-00001" summary="Class Java, Access Modificators">
+      <created>1680211610119</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680211610119</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Class Java, Access Modificators" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class Java, Access Modificators" />
   </component>
 </project>

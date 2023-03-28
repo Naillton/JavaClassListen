@@ -29,4 +29,5 @@ public class Main {
         cachorro.latir();
         System.out.println("O cachorro "+ cor +" está latindo");
     }
+
 }
