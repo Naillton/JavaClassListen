@@ -12,7 +12,6 @@ public class Principal {
         System.out.println("da cor "+ carro1.getCor());
         System.out.println("Tem uma velocidade maxima de "+ carro1.getVelocidade());
         System.out.println("e tem "+ carro1.getPortas() +" portas");
-        carro1.comprar();
         carro1.desligar();
     }
 }
