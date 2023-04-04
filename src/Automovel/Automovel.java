@@ -1,6 +1,6 @@
 package Automovel;
 
-public class Automovel implements Auto {
+public class Automovel {
     private String cor;
     private int velocidade;
     private String nome;
@@ -9,14 +9,6 @@ public class Automovel implements Auto {
         this.nome = nome;
         this.cor = cor;
         this.velocidade = velocidade;
-    }
-
-    public void ligar() {
-        System.out.println("Automovel ligado");
-    }
-
-    public void desligar() {
-        System.out.println("Automovel desliga");
     }
 
     public String getCor() {
